@@ -1,0 +1,13 @@
+name = "Plain Dark"
+filename = "Plain Dark - 1.20.2-26.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0e29a4366fe7603a075d8b2941a69de0cfc2d31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7924120
+project-id = 1513643

@@ -1,0 +1,13 @@
+name = "Tom's Create Style Recipes"
+filename = "Tom's Create Style Recipes 1.0 - 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db2ede4b5c7d3fc6393f5e635ffd66647cca1e6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6852972
+project-id = 1266888

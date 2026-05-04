@@ -1,0 +1,13 @@
+name = "KruSMP"
+author = "KruKnight"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dd8682e37fcbedcad5c697cf7b16539a9a9c610d5dbe4357c9f5fcfb4023fdef"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
