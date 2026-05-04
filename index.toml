@@ -842,6 +842,11 @@ file = "mods/2026-04-30-1.log"
 hash = "57e82010f1f823e0e116e0998dd9ae22f097839f5ab59249812cc4bf16e62f57"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
 metafile = true
@@ -863,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+hash = "b47d581a42ff5136e77d1312f748eebafef3e7e541a58df14a3d5076d5f0ce9b"
 metafile = true
 
 [[files]]
@@ -947,8 +952,8 @@ hash = "0cbbb21c0818764290f78554e22aace4223885f8410e7cad81b0942060618a56"
 metafile = true
 
 [[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "f887f8c72a61d9d2c7acc5702ebad04fb7e52a7b7eb960bb7fd815cc8492e9dd"
 metafile = true
 
 [[files]]
@@ -963,12 +968,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "fe38d424a08ff28b88fc29e7e598923fa07a7474c79b7d11c7ac003c788683c9"
+hash = "f9ddfb372457f4dc6b56491825491058b998391374d0da98dddf644e32ba62be"
 metafile = true
 
 [[files]]
@@ -988,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compact-gearbox-transmisson.pw.toml"
-hash = "8738addb435c45062949ce487188f352af992bd89c5622977d81a6f1068ddb2a"
+hash = "292b507e49c06075d9ad977b263444842a84133c5808d364fca3308c5255d4e0"
 metafile = true
 
 [[files]]
@@ -1003,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "9bb04e0450d54cdaaf10120438a5a1139c84fbcf51f9beca3ebb90c9c01eec0a"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
@@ -1023,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "7e8a1804eacae7af408e6dcf14e7e673caa745189aa15f0b988295129ad3e510"
+hash = "6afc7937c616d94a4c7f2150da40f5a48c0e1079e8e966b477d96a9dad2ea652"
 metafile = true
 
 [[files]]
@@ -1053,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "874ae239c9572a8acf3e266d097f3c1dad8435d6d1e945c4286c361a678d370d"
+hash = "f5e6c6a2cac6fa3ecd07f70ec32beb32d591c0332dab00936ca439880221f800"
 metafile = true
 
 [[files]]
@@ -1063,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "fc3161c8d46ab00f3e3a2e0f2db093d0e7ffa24dca7b883eef338d90a424d8b7"
+hash = "5a5c12ae10b1bca3a6b51a4b56645cb5bdacb35b1d9c49bc79517a660c0cd51b"
 metafile = true
 
 [[files]]
@@ -1073,12 +1078,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-transmission.pw.toml"
-hash = "1d85c487446f7d010ddc99a27e49225b6e0a702fc2053e7dd930bf557b2f1ca4"
+hash = "920613643faeb5984b0e0280b8faa52b4da1d14ad83789dbf5effecda95ed01e"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1098,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "7c25c3078e3651fe936d6356c9bb4e5311e95bc102dbdc42b3f00f4467e1c27e"
+hash = "d5f0e5e66fa14c259c82e947d2b99a191f8bc9fd83e466f733bf9532771a3082"
 metafile = true
 
 [[files]]
@@ -1108,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/easier-sleeping.pw.toml"
-hash = "fced0182c037d3bb553651c2ab0b5fdbc301c20430366388f36f6a61121bb6e7"
+hash = "2480ff0aff764d1785bd2580e88a479a848c71d623d3828ef39a5b222c47d053"
 metafile = true
 
 [[files]]
@@ -1158,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "bac64d66334b78287575f7717aeb542bf4871c0fda866e9a9df4c080f7fdfed7"
+hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
@@ -1198,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "eabec45f6c8f35ff4348d5730339cf021ff81ccd74c8c19d61cd0c0862245039"
+hash = "9ec01a460861f4232dcd6c127023f2452e5aeabf6b382839e0e61d536adc4f03"
 metafile = true
 
 [[files]]
@@ -1218,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
@@ -1248,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "b2ed188779735803fa335e39df07bc571b32993c95b6a02f78521b16eedaeb7d"
+hash = "610c4f2a6bfdde68483f618819040c55d08df4f0fa1f546416f19fdec9d2e60b"
 metafile = true
 
 [[files]]
@@ -1373,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -1383,12 +1388,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+hash = "dcce7f37c9f3da5854b4124285bf9cbfa9e4860de6ca1771e70e89c1b7601f1e"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "21d7c00f73c0ecc0dc51deb092468b5b46dad564aa475a08de59353840d70fe2"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]
@@ -1399,11 +1404,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "92eb313e4b79204f8ff0b089a16c72409e2c4b17f60f05ab97627119beb7339e"
+hash = "fac79f521065224e1d712ed7f3bb19f1c694da773a80cb2d1b6701358861068b"
 metafile = true
 
 [[files]]
@@ -1448,12 +1448,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "18a3499316fb5bdc110a6dcad55307c1256db8308244f93e71dc8a282b2e27a7"
+hash = "585d1ac3e487d24ddaece1660bf969b99d0892dd2925e440d0b342b7c94cbdf9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f926211fa1db6b5d730b8f41f4d1481c7b634b99eaca36c01cce70b0d8d6b0c7"
+hash = "9e08f657c7848e0d35504e62657907248c0741df82f2d52b0222da79dc0fbe20"
 metafile = true
 
 [[files]]
@@ -1463,7 +1463,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3df084e1f3f30706e76d3230619bb3ebcf42c5ff709f74469b9a5dbfb1ec9030"
+hash = "d9151c58ba7dd9613bad6613a09508e86affac433652ff2fd38d907a95668649"
 metafile = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "9b99e7aa00e20c15be65b3a4845daac4fb3e456010e924e36e81974cdce50241"
+hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
 metafile = true
 
 [[files]]
@@ -1483,7 +1483,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
 metafile = true
 
 [[files]]
@@ -1518,12 +1518,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
