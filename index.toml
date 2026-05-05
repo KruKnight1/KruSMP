@@ -1112,11 +1112,6 @@ hash = "77109801093172dad01b0d62423eee91b317d23e094097760b065e980e8b10c2"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
-metafile = true
-
-[[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "2480ff0aff764d1785bd2580e88a479a848c71d623d3828ef39a5b222c47d053"
 metafile = true
@@ -1424,6 +1419,11 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "fac79f521065224e1d712ed7f3bb19f1c694da773a80cb2d1b6701358861068b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
