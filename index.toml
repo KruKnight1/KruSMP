@@ -521,11 +521,6 @@ hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/dramatic-skys.pw.toml"
-hash = "7f7bdd47c91d492968a21b59475a11b87a96ac341a5e25563521f69c886e2438"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
 metafile = true
@@ -949,11 +944,6 @@ metafile = true
 [[files]]
 file = "mods/c2me.pw.toml"
 hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
-metafile = true
-
-[[files]]
-file = "mods/celestial.pw.toml"
-hash = "22aacde76d2b12ecf82e070d15e0bc058c8aaac6e0d8db4eb05f78a8c6a28ad1"
 metafile = true
 
 [[files]]
