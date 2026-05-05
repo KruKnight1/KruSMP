@@ -501,6 +501,46 @@ file = "config/particular-common.toml"
 hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
 
 [[files]]
+file = "config/paxi/datapacks/supplementaries-compat.pw.toml"
+hash = "ecc40d6563a978de8d6138c5c1c0a959f6cfd18fd5da00c940902b974f8a6b72"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/toms-create-style-recipes.pw.toml"
+hash = "eaa621cda572d88374b8306544677716b4ade8b21de9806966cc94d5ff87b47d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/plain-dark.pw.toml"
+hash = "9da606a66152700d828f385c292bfd157af71003639da34de04b3952c317aa8b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/redstone-pen-revamped.pw.toml"
+hash = "e649258f1d08f9008566b049070f440a878ce60c051105b0877153c4c6e1fbf4"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/toms-create-style.pw.toml"
+hash = "6a2c9c68399a61b12350d55485a52c8ad1d5b661de4c330f42baff927b6c9718"
+metafile = true
+
+[[files]]
 file = "config/pipeorgans-client.toml"
 hash = "d097195a20c1479091dd87d2c71f1b3bbe4a0fd5c4606171b37e52f18f2e56ba"
 
@@ -833,11 +873,6 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
-file = "miniature-shader.pw.toml"
-hash = "a76dc6aec7fa08536ecac23c3b921cb75188c710f6088569262e078f7df1bd59"
-metafile = true
-
-[[files]]
 file = "mods/2026-04-30-1.log"
 hash = "57e82010f1f823e0e116e0998dd9ae22f097839f5ab59249812cc4bf16e62f57"
 
@@ -937,6 +972,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "be5d32cc3a6d73a16915e37c022c7a8e7e804baa89a92bb611d778f4a848e91e"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
@@ -967,6 +1007,16 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "14b4b67480886d12ba2887fcd737f1a4026294adb246c0159c4a532e148c8308"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "fd75ed874d98aeef448183b78256d1aebe9472bf4c7bf5efab204d39c2fd7877"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -977,6 +1027,11 @@ hash = "f9ddfb372457f4dc6b56491825491058b998391374d0da98dddf644e32ba62be"
 metafile = true
 
 [[files]]
+file = "mods/create-ballast.pw.toml"
+hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
@@ -984,6 +1039,11 @@ metafile = true
 [[files]]
 file = "mods/create-blocks-bogies.pw.toml"
 hash = "bd11a6432f2e077e0c33ac8bf8b5f0da76214f0d89954d0fe1451c68ac1a2cdd"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "c8b2e60b789885854508c674ba0630cdc8dc2a880302d8475cdc5ae06c44f64a"
 metafile = true
 
 [[files]]
@@ -1013,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "8418d9b91e297fe19735fc0f85dcd520b6ee19b22c0662b313bc58352784b20e"
+hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
 
 [[files]]
@@ -1034,6 +1094,16 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "cede8b7fbb98d9623fb783d0edfe0710104557405653235ca602a38e76677b90"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
+metafile = true
+
+[[files]]
+file = "mods/create-item-drawers.pw.toml"
+hash = "b1e6e5569daba5fbe99b5896c2bd78982084b5b566edfbfaea7025488b20bf39"
 metafile = true
 
 [[files]]
@@ -1069,6 +1139,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "5a5c12ae10b1bca3a6b51a4b56645cb5bdacb35b1d9c49bc79517a660c0cd51b"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -1119,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
 metafile = true
 
 [[files]]
@@ -1327,6 +1407,11 @@ hash = "3fa9d58d6bbbd017e469b0c3abeddcfee722a0103b5c6590ac966dd8fb604992"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
@@ -1517,60 +1602,16 @@ hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/plain-dark.pw.toml"
-hash = "9da606a66152700d828f385c292bfd157af71003639da34de04b3952c317aa8b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/redstone-pen-revamped.pw.toml"
-hash = "e649258f1d08f9008566b049070f440a878ce60c051105b0877153c4c6e1fbf4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/toms-create-style.pw.toml"
-hash = "6a2c9c68399a61b12350d55485a52c8ad1d5b661de4c330f42baff927b6c9718"
-metafile = true
-
-[[files]]
-file = "shaderpacks/miniature-shader-2.18.11.zip.txt"
-hash = "4bd41df1bd479c0fd9e12c088bea4d138ff5897702a15403165ef20dcf3a3604"
-
-[[files]]
-file = "sildurs-vibrant-shaders.pw.toml"
-hash = "68af5f427603b0145f7112c477961d399f8d642fad3ac07764e7adc9dffe668b"
-metafile = true
-
-[[files]]
-file = "spawn-animations.pw.toml"
-hash = "470e5ea186c3c98f303a496239ba050562d8d00a8b30d0a334b3803de45ade74"
-metafile = true
-
-[[files]]
-file = "supplementaries-compat.pw.toml"
-hash = "ecc40d6563a978de8d6138c5c1c0a959f6cfd18fd5da00c940902b974f8a6b72"
-metafile = true
-
-[[files]]
-file = "toms-create-style-recipes.pw.toml"
-hash = "eaa621cda572d88374b8306544677716b4ade8b21de9806966cc94d5ff87b47d"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
