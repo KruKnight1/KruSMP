@@ -511,6 +511,11 @@ hash = "eaa621cda572d88374b8306544677716b4ade8b21de9806966cc94d5ff87b47d"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/c4music.pw.toml"
+hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
@@ -521,8 +526,43 @@ hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-creepers.pw.toml"
+hash = "7913ccc031786220b0d2226389d2f034369183572e7071e5d7612b442359f130"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-details.pw.toml"
+hash = "0fbf13d350fe4d7645ca6e01da4f860c18d762666ba3c4f83ba9a91312724853"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "a516f14bbde45f128086050dd497a5747bfc42e4b2dbe4bb8150c9a126a30eb7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "929ce27b339e53bbd7828bd0a311b627428858713a6158d3e9d805cd6df2c2d2"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -582,7 +622,7 @@ hash = "ffddeae2d87ad8ec0b93d9c949b5187744eebdf1390d1697babf0f5424461a5f"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "516972df3a855fc77c746ea145f0c30938a997289fd7db43072a95b9bd5085ef"
+hash = "cf3115b7d25f91080c8820c6151a6718cd8eb238735bc05cc002f9e75bd52acd"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -638,7 +678,7 @@ hash = "568b26ff541d820ab708c9e3c9a44a182dde85462aed6bd145d07b47bd89d732"
 
 [[files]]
 file = "config/simplytooltips/config.toml"
-hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
+hash = "8d841088fcf91c96c3c4bff112f604961129c55687906fa0e8fd3968cc45002a"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -1202,6 +1242,16 @@ hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
 metafile = true
@@ -1397,6 +1447,16 @@ hash = "4cd2e441a63a0f58fc6451dd90bb7c2acebc76fe00e5ed2e4993c6acb9faa402"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
 metafile = true
@@ -1434,6 +1494,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "91f009784ba1de42e213e57e9e4c300c16d597010e5d5d0e0ca3e5a60485ee49"
 metafile = true
 
 [[files]]
@@ -1604,6 +1669,71 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/c4music.pw.toml"
+hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-creepers.pw.toml"
+hash = "7913ccc031786220b0d2226389d2f034369183572e7071e5d7612b442359f130"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "0fbf13d350fe4d7645ca6e01da4f860c18d762666ba3c4f83ba9a91312724853"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "a516f14bbde45f128086050dd497a5747bfc42e4b2dbe4bb8150c9a126a30eb7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "929ce27b339e53bbd7828bd0a311b627428858713a6158d3e9d805cd6df2c2d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
+metafile = true
+
+[[files]]
+file = "resourcepacks/punchy!-compatibility.pw.toml"
+hash = "dd61336de1243db01c7a004101dda9f3a0e37cbcccce1e236b736b4b9cfb035f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "e53f841d27f5921bd2246f1398d73460cffb92e14f24e6088783156cbd458620"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-torches.pw.toml"
+hash = "97019b65775c329603fedf2c4e5038c98a2192fc4630635e873597ee5ff9ad72"
 metafile = true
 
 [[files]]
