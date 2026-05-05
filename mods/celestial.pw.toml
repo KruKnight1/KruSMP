@@ -1,0 +1,13 @@
+name = "Celestial"
+filename = "celestial_1.21_neoforge-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J31lhO5V/versions/Y7MVUUUm/celestial_1.21_neoforge-2.0.jar"
+hash-format = "sha512"
+hash = "c8e960430e4374a3fb6dd1744602e3807493698002dc3af6138b195c3f8a5c6c522d549739eb7f4e31a5418f68e6b4bb50e1f01829a1a4f5206fa242dccfa83a"
+
+[update]
+[update.modrinth]
+mod-id = "J31lhO5V"
+version = "Y7MVUUUm"

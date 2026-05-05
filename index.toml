@@ -947,6 +947,11 @@ hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
 metafile = true
 
 [[files]]
+file = "mods/celestial.pw.toml"
+hash = "22aacde76d2b12ecf82e070d15e0bc058c8aaac6e0d8db4eb05f78a8c6a28ad1"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -1567,11 +1572,6 @@ hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
 metafile = true
 
 [[files]]
-file = "mods/stellarview.pw.toml"
-hash = "e583f8cd89217955925b1eb1ee9fa75e59cceeca958a233bb8f090226e13c96c"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
 metafile = true
@@ -1612,6 +1612,11 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "7f7bdd47c91d492968a21b59475a11b87a96ac341a5e25563521f69c886e2438"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
@@ -1634,11 +1639,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
 hash = "06f718cee26635a64a44fdb844271aacfa50718665d28da33506e6be45be2422"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
 
 [[files]]
