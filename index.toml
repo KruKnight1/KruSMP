@@ -334,7 +334,7 @@ hash = "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8"
 
 [[files]]
 file = "config/gravestone-server.toml"
-hash = "d6bee13ae45904562fc651630ce48fa4e70cd3853fe2f488403c9b67d0c74c2a"
+hash = "274cf566e87636389800332caa248d2b1eb48d7153d8989deb94828c707f4496"
 
 [[files]]
 file = "config/gravestonecurioscompat-common.toml"
@@ -571,8 +571,23 @@ hash = "9da606a66152700d828f385c292bfd157af71003639da34de04b3952c317aa8b"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/rays-3d-ladders.pw.toml"
+hash = "e53f841d27f5921bd2246f1398d73460cffb92e14f24e6088783156cbd458620"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/rays-3d-rails.pw.toml"
+hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/redstone-pen-revamped.pw.toml"
 hash = "e649258f1d08f9008566b049070f440a878ce60c051105b0877153c4c6e1fbf4"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/refined-torches.pw.toml"
+hash = "97019b65775c329603fedf2c4e5038c98a2192fc4630635e873597ee5ff9ad72"
 metafile = true
 
 [[files]]
@@ -1497,11 +1512,6 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "91f009784ba1de42e213e57e9e4c300c16d597010e5d5d0e0ca3e5a60485ee49"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
 metafile = true
@@ -1709,16 +1719,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/hyper-punchy.pw.toml"
-hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
-metafile = true
-
-[[files]]
-file = "resourcepacks/punchy!-compatibility.pw.toml"
-hash = "dd61336de1243db01c7a004101dda9f3a0e37cbcccce1e236b736b4b9cfb035f"
 metafile = true
 
 [[files]]
