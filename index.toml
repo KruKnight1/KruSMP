@@ -499,6 +499,10 @@ hash = "eaa621cda572d88374b8306544677716b4ade8b21de9806966cc94d5ff87b47d"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "c1117ce45471cf84150e7496f988037f2aa06f6ba23778c92849d70bd9e78ad9"
+
+[[files]]
 file = "config/paxi/resourcepacks/c4music.pw.toml"
 hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
 metafile = true
@@ -514,8 +518,48 @@ hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fa-player-extension-x-better-combat.pw.toml"
+hash = "135fea42667366e9eaad1fa0df56eb014fbc7223f7166704218377c74388dfa6"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fa-player-extension.pw.toml"
+hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-creepers.pw.toml"
+hash = "7913ccc031786220b0d2226389d2f034369183572e7071e5d7612b442359f130"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-details.pw.toml"
+hash = "0fbf13d350fe4d7645ca6e01da4f860c18d762666ba3c4f83ba9a91312724853"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "a516f14bbde45f128086050dd497a5747bfc42e4b2dbe4bb8150c9a126a30eb7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "929ce27b339e53bbd7828bd0a311b627428858713a6158d3e9d805cd6df2c2d2"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -1220,6 +1264,11 @@ hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
 metafile = true
 
 [[files]]
+file = "mods/fa-player-extension-compat.pw.toml"
+hash = "2e0f5441336f5c080df145c9dd633196bd42888a32fbfd0163913bac6fd2cb72"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
@@ -1410,6 +1459,11 @@ hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
+file = "mods/no-more-phantoms.pw.toml"
+hash = "fc2cb31de25c0af8b26932aec296f1c5bf6909afcb4376c3d6bb0765b06ccb65"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings-forge.pw.toml"
 hash = "4cd2e441a63a0f58fc6451dd90bb7c2acebc76fe00e5ed2e4993c6acb9faa402"
 metafile = true
@@ -1441,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -1692,26 +1746,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/c4music.pw.toml"
-hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-ladders.pw.toml"
-hash = "e53f841d27f5921bd2246f1398d73460cffb92e14f24e6088783156cbd458620"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
 metafile = true
 
 [[files]]
