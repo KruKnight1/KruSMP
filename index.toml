@@ -508,6 +508,11 @@ hash = "7874d5c0314854e2db9630f08b94107d5f00d3dd930ad0622a7c2dc6d3d745a1"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
+hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
@@ -525,16 +530,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/plain-dark.pw.toml"
 hash = "9da606a66152700d828f385c292bfd157af71003639da34de04b3952c317aa8b"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/rays-3d-ladders.pw.toml"
-hash = "e53f841d27f5921bd2246f1398d73460cffb92e14f24e6088783156cbd458620"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/rays-3d-rails.pw.toml"
-hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
 metafile = true
 
 [[files]]
@@ -934,8 +929,8 @@ hash = "be9b84747fbddabebaaa182dfc3a4bb3f0b9d8c5a5473b6fd8fe92776458832e"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "2b75c579e6dec00700a1a8407769020370b9ba11d52bacd0ea893d564d91b965"
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
@@ -985,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -1266,11 +1261,6 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
-metafile = true
-
-[[files]]
-file = "mods/fa-player-extension-compat.pw.toml"
-hash = "2e0f5441336f5c080df145c9dd633196bd42888a32fbfd0163913bac6fd2cb72"
 metafile = true
 
 [[files]]
@@ -1769,8 +1759,8 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/computer-craft-recreated.pw.toml"
-hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+file = "resourcepacks/golden-days.pw.toml"
+hash = "4c400a9200909fcae2001b3a1137d301eb7be4bc11b6062d9588b2b36f2d8e8a"
 metafile = true
 
 [[files]]
