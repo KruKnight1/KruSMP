@@ -518,48 +518,8 @@ hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/fa-player-extension-x-better-combat.pw.toml"
-hash = "135fea42667366e9eaad1fa0df56eb014fbc7223f7166704218377c74388dfa6"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fa-player-extension.pw.toml"
-hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations-creepers.pw.toml"
-hash = "7913ccc031786220b0d2226389d2f034369183572e7071e5d7612b442359f130"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations-details.pw.toml"
-hash = "0fbf13d350fe4d7645ca6e01da4f860c18d762666ba3c4f83ba9a91312724853"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations-quivers.pw.toml"
-hash = "a516f14bbde45f128086050dd497a5747bfc42e4b2dbe4bb8150c9a126a30eb7"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations-spiders.pw.toml"
-hash = "929ce27b339e53bbd7828bd0a311b627428858713a6158d3e9d805cd6df2c2d2"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
-hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -994,6 +954,21 @@ hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
 metafile = true
 
 [[files]]
+file = "mods/cc-redstone-link-bridge.pw.toml"
+hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
+metafile = true
+
+[[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "2246c742ee8061b1be6ca50cdc9704b4859215cc9e0eb65b52495079003897c7"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -1059,13 +1034,28 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/create-additions-sable-compat.pw.toml"
+hash = "bf512384fdc3021ed7fcbb8b94bc486cb35974301158cbb24995a325b55ed227"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "14b4b67480886d12ba2887fcd737f1a4026294adb246c0159c4a532e148c8308"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-curios-compat.pw.toml"
+hash = "15e55d807f40747d80140b7e2bdfe6a4c3a735916dc09240502521916e780991"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
 hash = "fd75ed874d98aeef448183b78256d1aebe9472bf4c7bf5efab204d39c2fd7877"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
+hash = "18a234289ea5a4d7055a0d892e69651f6d556bdff40f98f959827e43aa70182d"
 metafile = true
 
 [[files]]
@@ -1076,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "f9ddfb372457f4dc6b56491825491058b998391374d0da98dddf644e32ba62be"
+metafile = true
+
+[[files]]
+file = "mods/create-avionics.pw.toml"
+hash = "d2d90b7ecd279583e1eddb9aef5621078f6c52648bd88aaadcb4f6be9addecac"
 metafile = true
 
 [[files]]
@@ -1091,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/create-blocks-bogies.pw.toml"
 hash = "bd11a6432f2e077e0c33ac8bf8b5f0da76214f0d89954d0fe1451c68ac1a2cdd"
+metafile = true
+
+[[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "0e8eb610e3fa9fc7d7897dd24ac43872ead64ddea9e6b5da2a2730d21892f2fd"
 metafile = true
 
 [[files]]
@@ -1111,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "de06ec95bb70a143578f55fa857af0e7c84ecdecd421a10ce3edb2737823ba39"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "4d4804b4b09a1e8df068f465cca9b07b818ee6d6c2c061269e42b2cea9749be0"
 metafile = true
 
 [[files]]
@@ -1209,6 +1214,11 @@ hash = "920613643faeb5984b0e0280b8faa52b4da1d14ad83789dbf5effecda95ed01e"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "ace252b6b7f35f95dd486c4c38125be1ab4e5dd0edc30c7c665411f739c971f7"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -1289,6 +1299,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/frequency-create.pw.toml"
+hash = "7bbf27504c2b75d8de02a10c1ab9e34ee9959601a97dcd3b59c3127ca69c6de6"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
 metafile = true
@@ -1364,6 +1379,11 @@ hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "75aea87895543f4c22c949c9ade0e52847c48b350bab89bb1cbbafe5b3db0b68"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -1411,6 +1431,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
+metafile = true
+
+[[files]]
+file = "mods/lever-durgster.pw.toml"
+hash = "c9df33207ebcdfbe2ff8c6a72aaf3d65b79b8dcb12947f93a2337d643f5c1d10"
 metafile = true
 
 [[files]]
@@ -1749,6 +1774,11 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/computer-craft-recreated.pw.toml"
+hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
@@ -1771,11 +1801,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
 hash = "06f718cee26635a64a44fdb844271aacfa50718665d28da33506e6be45be2422"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
 
 [[files]]
