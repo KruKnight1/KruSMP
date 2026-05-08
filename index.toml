@@ -949,6 +949,11 @@ hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "a6aa4fe3dfbad5c05d3a83417c39cb7560c220e8bbe9d4889c7ce3fc29409224"
+metafile = true
+
+[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
 metafile = true
@@ -971,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "70c4fe11582592bf38c8ac86b0d5923593772191fdcdf39de4b2c4b949c04f3d"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "93f9e26c1efc460a72de43d2fe3b3ede294a85bfa9542bda03fa6614cd66791f"
 metafile = true
 
 [[files]]
@@ -1416,11 +1426,6 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
-metafile = true
-
-[[files]]
-file = "mods/lever-durgster.pw.toml"
-hash = "c9df33207ebcdfbe2ff8c6a72aaf3d65b79b8dcb12947f93a2337d643f5c1d10"
 metafile = true
 
 [[files]]

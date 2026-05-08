@@ -1,0 +1,13 @@
+name = "Carbon Config"
+filename = "CarbonConfig-Neoforge-1.21-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b24622e274256f6804d4b98eceb8f717f6941233"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8018138
+project-id = 898104
