@@ -1,13 +1,13 @@
 name = "Create: Avionics"
-filename = "create_avionics-neoforge-1.21.1-0.1.0.jar"
+filename = "create_avionics-neoforge-1.21.1-0.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/h4nsLvjf/versions/ywClM1mJ/create_avionics-neoforge-1.21.1-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/h4nsLvjf/versions/kd30bl6Y/create_avionics-neoforge-1.21.1-0.4.0.jar"
 hash-format = "sha512"
-hash = "1a3fef3365f585c3f36446fd2754b4a6f28cb05fa1eb0f90ab41b435442e1062339214564d6f52a0359fd956e7f2c76dc673720aeaf3f9cdc26ab2a136b342f2"
+hash = "4ffaacdc939ffde2f70a50cdb1ac0a1039ef40fd8116f89fc5831a887f952e2db1e13402b8aefc1f414b3c0e8b478c7a37bdb830a52604a2d424b8de371010a8"
 
 [update]
 [update.modrinth]
 mod-id = "h4nsLvjf"
-version = "ywClM1mJ"
+version = "kd30bl6Y"
